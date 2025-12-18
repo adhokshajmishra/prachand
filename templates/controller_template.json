@@ -1,0 +1,18 @@
+{
+  "controller": {
+    "controller_url": "https://localhost:8080",
+    "ca_cert_bundle": "",
+    "verify_ssl_certificate": false,
+    "verify_ssl_hostname": false,
+    "auth_type": "token",
+    "token": ""
+  },
+  "proxy": {
+    "hostname": "",
+    "port": 0,
+    "auth_type": "none",
+    "username": "",
+    "password": "",
+    "token": ""
+  }
+}

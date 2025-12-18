@@ -1,0 +1,22 @@
+{
+  "server_configuration": {
+    "hostname": "localhost",
+    "port": 8080
+  },
+  "ssl_configuration": {
+    "ssl_certificate": "/home/ubuntu/ssl/malware.dev.crt",
+    "ssl_private_key": "/home/ubuntu/ssl/malware.dev.key",
+    "dh_key": "/home/ubuntu/ssl/dh.pem",
+    "ssl_password": "password"
+  },
+  "database_configuration": {
+    "hostname": "localhost",
+    "port": 5432,
+    "username": "c2service",
+    "password": "c2p@ssw0rd",
+    "database_name": "c2db"
+  },
+  "database_pool_configuration": {
+    "maximum_connections": 100
+  }
+}

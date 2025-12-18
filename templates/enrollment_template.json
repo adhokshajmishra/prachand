@@ -1,0 +1,19 @@
+{
+  "host_identifier": "7bfeb630-f0ee-44c5-9a29-775515e48d6e",
+  "host_details": {
+    "agent_version": "1.0.0.0",
+    "host_name": "malware-lab",
+    "hw_cpu_logical_core": "4",
+    "hw_cpu_type": "Apple/aarch64",
+    "hw_model": "",
+    "hw_physical_memory": "15G",
+    "hw_vendor": "Multipass",
+    "hw_version": "0",
+    "os_arch": "aarch64",
+    "os_build": "2",
+    "os_major": "24",
+    "os_minor": "04",
+    "os_name": "Ubuntu 24.04.2 LTS",
+    "os_platform": "Linux"
+  }
+}
